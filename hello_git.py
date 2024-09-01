@@ -12,3 +12,8 @@ print ('Estoy probando el Git Diff para ver cambios sin commitear')
 #Investigar mas este tema para saber como se utiliza 
 
 #29 Ahora vamos a ver si podemos trabajar con Git colocando en remoto en GitHub
+#git remote add origin https://github.com/Josegme/hello-git.git esta es mi direccion del repositorio 
+# y me serive para: Conectar mi trabajo local (GIT) con mi repositorio Remoto en mi GitHub
+#diretamente desde github puedo conectar mi respositorio local y añadir a un repositorio remoto para trabajar con el
+#una vez hecha la conección "refresh y listo estan conectados" puedo visulizar mi respositorio de trabajo remoto en github
+
