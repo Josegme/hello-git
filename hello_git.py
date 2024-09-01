@@ -16,4 +16,6 @@ print ('Estoy probando el Git Diff para ver cambios sin commitear')
 # y me serive para: Conectar mi trabajo local (GIT) con mi repositorio Remoto en mi GitHub
 #diretamente desde github puedo conectar mi respositorio local y añadir a un repositorio remoto para trabajar con el
 #una vez hecha la conección "refresh y listo estan conectados" puedo visulizar mi respositorio de trabajo remoto en github
+#Si hago una modificacion en mi local y ahora realizo el Git ADD y luego el GIT COMMIT
+#Ahora lo que tengo que hacer es subir ese cambio a mi repositor de trabajo remoto en GITHUB
 
