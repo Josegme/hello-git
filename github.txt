@@ -1,0 +1,48 @@
+  LECCIONES DEL CURSO:
+00:00:00 | Introducción
+00:03:15 | 1 - Introducción a Git
+00:10:21 | 2 - Historia de Git
+00:14:35 | 3 - Instalación de Git
+00:24:00 | 4 - Comandos básicos de la terminal
+00:30:13 | 5 - Configuración de Git
+00:36:47 | 6 - "git init"
+00:42:23 | 7 - Ramas en Git
+00:45:21 | 8 - "git add" y "git commit"
+00:53:27 | 9 - "git log" y "git status"
+00:57:48 | 10 - "git checkout" y "git reset"
+01:03:02 | 11 - "git alias"
+01:05:05 | 12 - Fichero .gitignore
+01:09:04 | 13 - "git diff"
+01:11:54 | 14 - Desplazamiento en una rama
+01:19:31 | 15 - "git reset --hard" y "git reflog"
+01:27:37 | 16 - "git tag"
+01:37:36 | 17 - "git branch" y "git switch"
+01:49:06 | 18 - "git merge"
+01:54:29 | 19 - Resolución de conflictos en Git
+02:03:42 | 20 - "git stash"
+02:10:11 | 21 - Reintegración de ramas en Git
+02:16:26 | 22 - Eliminación de ramas en Git
+02:22:27 | 23 - Introducción a GitHub
+02:27:53 | 24 - Primeros pasos en GitHub
+02:30:39 | 25 - Repositorio personal
+02:42:40 | 26 - Local y Remoto
+02:47:32 | 27 - Autenticación SSH en GitHub
+03:00:45 | 28 - Repositorio proyecto
+03:02:29 | 29 - "git remote"
+03:07:19 | 30 - Subida de un proyecto a GitHub
+03:11:31 | 31 - "git fetch" y "git pull"
+03:16:41 | 32 - "git clone"
+03:19:55 | 33 - "git push"
+03:21:31 | 34 - "Fork" en GitHub
+03:27:02 | 35 - Flujo colaborativo en GitHub
+03:30:46 | 36 - "Pull Request (PR)" en GitHub
+03:35:30 | 37 - Ejercicio práctico
+03:37:41 | 38 - Resolución de conflictos en Pull Requests
+03:53:31 | 39 - Sincronización de un Fork en GitHub
+03:56:53 | 40 - Markdown en GitHub
+04:00:37 | 41 - Herramientas gráficas (GUI) para Git y GitHub
+04:18:36 | 42 - Git y GitHub "flow"
+04:35:15 | 43 - Ejemplo Gitflow
+04:52:49 | 44 - "git cherry-pick" y "git rebase"
+05:00:05 | 45 - GitHub Pages Y Actions
+05:04:24 | Próximos pasos
